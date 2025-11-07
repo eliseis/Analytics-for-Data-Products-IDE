@@ -1,4 +1,4 @@
-# Tool Window Usage Analysis v3
+# Tool Window Usage Analysis
 
 This repository contains the analytics pipeline for comparing manual vs. auto tool window usage durations.
 
